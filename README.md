@@ -4,13 +4,23 @@
 </p>
 
 <h1 align="center"> DEDSEC_VOUCHER_BRUTER </h1>
-<h4 align="center">dedsec voucher bruter is lpv piso wifi voucher bruter tool</h4>
+<h4 align="center">dedsec voucher bruter is a lpb wifi voucher bruter tool</h4>
+
+### You can replace the code below for your cookie and mac address
+```python
+headers = {'Cookie':'PHPSESSID=4i446cddqg0ucu972tij8jpa72; cmac=c2%3A55%B3ca%3Afe%3A4a%3A32',
+            'Host': '10.0.0.1',
+            'Origin': 'http://10.0.0.1',
+            'Referer': 'http://10.0.0.1/',
+            'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'}
+
+```
 
 ### INSTALLATION [ KALI - UBUNTU - TERMUX APP  ]
-* git clone https://github.com/0xbitx/DEDSEC_VOUCHER_BRUTER.git
-* cd DEDSEC_VOUCHER_BRUTER
-* pip3 install tabulate pystyle
-* sudo python3 dedsec_v_bruter.py
+    * git clone https://github.com/0xbitx/DEDSEC_VOUCHER_BRUTER.git
+    * cd DEDSEC_VOUCHER_BRUTER
+    * pip3 install tabulate pystyle
+    * sudo python3 dedsec_v_bruter.py
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
