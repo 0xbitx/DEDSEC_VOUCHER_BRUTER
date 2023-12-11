@@ -7,7 +7,7 @@
 <h4 align="center">DEDSEC_VOUCHER_BRUTER is a Linux-based voucher brute-force tool designed for LPB WiFi vending machines.</h4>
 
 ### DESCRIPTION
-DEDSEC_VOUCHER_BRUTER is a  Linux-based voucher cracking tool for LPB wifi vendo. This tool not only generates a personalized voucher profile but also excels in brute forcing various voucher types. Experience seamless automation as VoucherBruter handles cookie changes and adeptly bypasses input rate limits imposed by vending machines. Elevate your voucher-cracking endeavors with VoucherBruter, a comprehensive solution designed for efficiency and effectiveness.
+DEDSEC_VOUCHER_BRUTER is a  Linux-based voucher brute-force tool for LPB wifi vendo. This tool not only generates a personalized voucher profile but also excels in brute forcing various voucher types. Experience seamless automation as VoucherBruter handles cookie changes and adeptly bypasses input rate limits imposed by vending machines. Elevate your voucher-cracking endeavors with VoucherBruter, a comprehensive solution designed for efficiency and effectiveness.
 
 ### INSTALLATION [ KALI - UBUNTU - TERMUX APP  ]
     * git clone https://github.com/0xbitx/DEDSEC_VOUCHER_BRUTER.git
